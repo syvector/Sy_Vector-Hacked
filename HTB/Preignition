@@ -1,0 +1,17 @@
+Platform: HTB
+
+Machine: Preignition
+
+Level: Very Easy
+
+Status: Completed
+
+Time frame: 30 minutes
+
+The key takeaway is that, in real time, some developers don't cover their tracks
+
+For example, using gobuster dir -u http//: -w usr/share/wordlists/common.txt 
+
+That command got me to admin php with standard credentials, which allowed me to capture the flag
+
+In real time, people are searching for mistakes like this, so this is what stood out most.
