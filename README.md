@@ -1,5 +1,5 @@
 # Sy_Vector-Hacked
->*"Curiosity found the unknown of the internet, where the internet lives. Discipline will build the skills needed to survive it".*
+>*"Curiosity found the unknown of the internet, where the internet lives. Discipline will build the skills needed to navigate it".*
 
 Taking a route out of curiosity rather than standard practice. This is my cyber journey from complete scratch. Starting with Hack The Box Explosion. 
 
