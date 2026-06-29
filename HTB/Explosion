@@ -1,0 +1,25 @@
+Platform: Hack The Box
+
+Exploited Machine: Explosion
+
+Level: Very Easy 
+
+Status: Completed 
+
+Time frame: 2 days
+
+What I learned about this particular attack is that it violates trust within Windows RDP. 
+
+Running nmap led me to 3389/tcp open ms-wbt-server Microsoft Terminal Services
+
+The reason this port is special is because of ms-wbt-server; this gave me my in. 
+
+Next was XFree RDP to remotely connect to their system. 
+
+The biggest takeaway is how easy it is to manipulate the trust process. 
+
+I dont mean easy as the human definition. A curious, determined mind on any level will find a way. 
+
+There is no stopping a man or machine that is determined. 
+
+Determination can take a complex design and make it look simple. 
