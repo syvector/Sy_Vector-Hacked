@@ -1,0 +1,15 @@
+Platform: HTB
+
+Machine: Mongod
+
+Difficulty: Very Easy
+
+Time frame: 30 minutes
+
+Status: Completed
+
+What stood out to me was how I created a shell inside the software that was left open.
+
+To learn that developers make these types of mistakes is alarming. 
+
+To be able to find an open port that doesn't require credentials and retrieve sensitive information presents a lot of questions for me.  
